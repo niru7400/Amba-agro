@@ -16,8 +16,9 @@
 .navbar-list {
   display: flex;
   justify-content: center;
-  gap: 55px;
-  padding: 20px ;
+  gap: 50px;
+  padding: 1px ;
+  margin:20px;
   list-style: none;
   background-color: beige;
 }

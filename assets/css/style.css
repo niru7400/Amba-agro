@@ -9,17 +9,18 @@
 .navbar {
   width: 100%;
   background-color: beige;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
+  border-top: 18px solid #ddd;
+  border-bottom: 18px solid #ddd;
 }
 
 .navbar-list {
   display: flex;
   justify-content: center;
-  gap: 50px;
-  padding: 1px ;
-  margin:20px;
+  gap: 45px;
+  padding: 10px ;
+  margin: 1px;
   list-style: none;
+
 }
 
 .navbar-link {

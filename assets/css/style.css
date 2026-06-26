@@ -5,12 +5,13 @@
 /**
  * copyright 2022 codewithsadee
  */
-
 .navbar {
   width: 100%;
   background-color: beige;
-  border-top: 18px solid #ddd;
-  border-bottom: 18px solid #ddd;
+  border-top: 10px solid #ddd;
+  border-bottom: 10px solid #ddd;
+  padding-top: 10px;
+
 }
 
 .navbar-list {
@@ -22,6 +23,7 @@
   list-style: none;
 
 }
+
 
 .navbar-link {
   text-decoration: none;

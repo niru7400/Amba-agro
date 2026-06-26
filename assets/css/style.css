@@ -7,8 +7,8 @@
  */
 
 .navbar {
-  width: 120%;
-  background: #fff;
+  width: 100%;
+  background-color: beige;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
 }
@@ -20,7 +20,6 @@
   padding: 1px ;
   margin:20px;
   list-style: none;
-  background-color: beige;
 }
 
 .navbar-link {
